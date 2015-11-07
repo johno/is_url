@@ -6,7 +6,7 @@ defmodule IsUrl do
   """
 
   @doc """
-  Validate whether a given string is a url. This is a solution adapted from [Stack Overflow](http://stackoverflow.com/questions/30696761/check-if-a-url-is-valid-in-elixir).
+  Validate whether a string is a url. This is a solution adapted from [Stack Overflow](http://stackoverflow.com/questions/30696761/check-if-a-url-is-valid-in-elixir).
 
   Args:
 
